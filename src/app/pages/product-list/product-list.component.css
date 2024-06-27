@@ -1,0 +1,23 @@
+.headerText{
+    font-size: 30px;
+    color: black;
+    font-weight: 600;
+}
+.hasError .form-control{
+    border: 1px solid red;
+}
+.deleteTitle{
+    font-size:20px;
+    font-weight: 600;
+}
+.modal-header{
+    background-color: #ffd24a;
+    border-bottom: none !important;
+}
+.modal-title {
+    font-size: 22px;
+    font-weight: 700;
+}
+.text-danger{
+    font-size: 11px;
+}
